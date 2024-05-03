@@ -1,0 +1,34 @@
+﻿<Window x:Class="AlarmClockApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlarmClockApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions >
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+        <TextBox x:Name="clock" Height="110" VerticalAlignment="Top" TextAlignment="Center" IsReadOnly="True" VerticalContentAlignment="Center">00:00:00</TextBox>
+        <Button HorizontalAlignment="Left" Name="start" Width="50" Height="30" VerticalAlignment="Center"  Click="start_Click" Margin="60,127,0,93">
+            Start
+        </Button>
+        <Button HorizontalAlignment="Right" Width="50" Height="30" Name="stop" VerticalAlignment="Center"  Click="stop_Click_1" Margin="0,127,58,93">Stop</Button>
+        <Button HorizontalAlignment="Center" Width="50" Height="30" Name="reset" VerticalAlignment="Center"  Click="reset_Click" Margin="175,164,175,56">Reset</Button>
+         <Button HorizontalAlignment="Center" Width="100" Height="30" Name="distinct" VerticalAlignment="Center"  Click="distinct_Click" Margin="148,220,148,0">Find Distinct Number</Button>
+                <TextBox Margin="0,199,10,-148"/>
+
+                <TextBlock Grid.Column="1" Text="Ring After: "/>
+                <Slider Grid.Column="1" Margin="0,0,0,208"/>
+                <TextBlock Grid.Column="1" Text="Beep Indicator: " Margin="5,97,-5,-97"/>
+                
+                <TextBox Grid.Column="1" Margin="0,199,10,-148"/>
+            </Grid> 
+        </StackPanel>
+    
+    </Grid>
+</Window>

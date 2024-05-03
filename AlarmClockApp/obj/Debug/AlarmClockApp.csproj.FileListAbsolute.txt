@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\AlarmClockApp\bin\Debug\AlarmClockApp.exe.config
+C:\Users\hp\Desktop\AlarmClockApp\bin\Debug\AlarmClockApp.exe
+C:\Users\hp\Desktop\AlarmClockApp\bin\Debug\AlarmClockApp.pdb
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp_MarkupCompile.cache
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp_MarkupCompile.lref
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp.g.resources
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp.Properties.Resources.resources
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp.exe
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp.pdb
+C:\Users\hp\Desktop\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.SuggestedBindingRedirects.cache

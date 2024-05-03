@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\ClockLib\obj\Debug\ClockLib.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ClockLib\bin\Debug\ClockLib.dll.config
+C:\Users\hp\Desktop\ClockLib\bin\Debug\ClockLib.dll
+C:\Users\hp\Desktop\ClockLib\bin\Debug\ClockLib.pdb
+C:\Users\hp\Desktop\ClockLib\obj\Debug\DigitalClock.g.cs
+C:\Users\hp\Desktop\ClockLib\obj\Debug\ClockLib_MarkupCompile.cache
+C:\Users\hp\Desktop\ClockLib\obj\Debug\ClockLib_MarkupCompile.lref
+C:\Users\hp\Desktop\ClockLib\obj\Debug\DigitalClock.baml
+C:\Users\hp\Desktop\ClockLib\obj\Debug\ClockLib.g.resources
+C:\Users\hp\Desktop\ClockLib\obj\Debug\ClockLib.Properties.Resources.resources
+C:\Users\hp\Desktop\ClockLib\obj\Debug\ClockLib.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ClockLib\obj\Debug\ClockLib.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ClockLib\obj\Debug\ClockLib.dll
+C:\Users\hp\Desktop\ClockLib\obj\Debug\ClockLib.pdb
